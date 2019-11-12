@@ -1,2 +1,0 @@
-# tictactoereact
-Created with CodeSandbox
